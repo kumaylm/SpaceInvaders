@@ -1,7 +1,7 @@
 # Space Invaders
 The classic arcade game where you shoot down alien ships.
 
-## Language Used
+## Language Implemented
 Python
 
 ## See it in Action
