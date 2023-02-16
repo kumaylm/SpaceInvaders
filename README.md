@@ -1,7 +1,5 @@
 # Space Invaders
-The classic shoot ’em up game using Turtle, where your space ship can move left and right, and
-it can hit some alien ships. Every second the aliens will move closer to your ship, and once the aliens touch your ship
-then it’s game over.
+The classic shoot 'em up game using Python Turtle, where your space ship can move and hit some alien ships. Every second the aliens move closer to your ship, and the game ends once the aliens touch your ship.
 ## Language Implemented
 Python
 
